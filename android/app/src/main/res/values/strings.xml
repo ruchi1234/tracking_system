@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tracker</string>
+    <string name="account_type">com.tracker.account</string>
+    <string name="content_authority">com.tracker.authority</string>
+</resources>
